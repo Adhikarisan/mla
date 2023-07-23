@@ -1,0 +1,56 @@
+.mainContainer{
+    width: 50%;
+    margin: auto;
+    background-color: wheat;
+    height: auto;
+    padding-bottom: 30px: 
+}
+
+.imageContainer{
+    width: auto;
+    height: auto;
+    background-image: url(https://shorturl.at/devCZ);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.headingToStyle{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: white;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+  
+    background-color: #04aa6d;
+}
+
+.active{
+    background-color: #04aa6d;
+}
+.container-second{
+    width:auto ;
+    height: auto;
+    background-color: aliceblue;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+p.adjustheight{
+    
+}
